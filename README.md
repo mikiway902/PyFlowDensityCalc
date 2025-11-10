@@ -7,7 +7,11 @@
 3. Вывести значения полученные в результате расчетов в xlsx и csv форматы для возможного последующего использования.
 
 ## Решение:
-Решение приведено в формате Jupyter Notebook "**main.ipynb**" для удобного запуска в облачных системах типа Google Colab или на персональных компьютерах. В файле кода языка python "**MainCode.py**" содержащем код программы.
+Решение приведено в формате Jupyter Notebook "**main.ipynb**" для удобного запуска в облачных системах типа Google Colab или на персональных компьютерах. 
+Для запуска кода блокнота Jupyter Notebook в облачной системе Google Colab нужно перейти по ссылке:
+https://colab.research.google.com/github/mikiway902/PyFlowDensityCalc/blob/main/main.ipynb
+
+В файле кода языка python "**MainCode.py**" содержащем код программы.
 
 Код выполнен с использованием основных библиотек **torch** (PyTorch), **matplotlib**, **pandas**, **openpyxl**, **os**. 
 
