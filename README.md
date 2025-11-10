@@ -29,3 +29,6 @@ https://colab.research.google.com/github/mikiway902/PyFlowDensityCalc/blob/main/
 Так же были использованы второстепенные библиотеки для автоматической установки зависимостей (библиотек): **importlib**, **subprocess**, **sys**.
 
 Все данные, полученные в результате вычислений, сохраняются в папку **Results**.
+
+## Итоговый график:
+![Функция приведенной плотности потока массы от приведенной скорости](https://github.com/mikiway902/PyFlowDensityCalc/blob/6b77a4e3445a1f8cedbf348850d3de7017674fe8/Results/plot.png)
