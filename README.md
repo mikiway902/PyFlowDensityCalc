@@ -9,6 +9,7 @@
 ## Решение:
 Решение приведено в формате Jupyter Notebook "**main.ipynb**" для удобного запуска в облачных системах типа Google Colab или на персональных компьютерах. 
 Для запуска кода блокнота Jupyter Notebook в облачной системе Google Colab нужно перейти по ссылке:
+
 https://colab.research.google.com/github/mikiway902/PyFlowDensityCalc/blob/main/main.ipynb
 
 В файле кода языка python "**MainCode.py**" содержащем код программы.
